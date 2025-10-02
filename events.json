@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Annual Youth Conference",
+    "date": "2025-10-25",
+    "time": "10:00 AM - 4:00 PM",
+    "location": "Main Auditorium, Secunderabad",
+    "description": "A full day of worship, guest speakers, and fellowship for the youth. Join us as we explore this year's theme.",
+    "imageUrl": "https://images.unsplash.com/photo-1543364195-077a17c5f425?q=80&w=2070"
+  },
+  {
+    "title": "Community Outreach Program",
+    "date": "2025-11-15",
+    "time": "9:00 AM onwards",
+    "location": "Community Grounds, near Paradise",
+    "description": "Serving the local community with food and supplies. Volunteers are welcome.",
+    "imageUrl": "https://images.unsplash.com/photo-1593113598332-cd288d649433?q=80&w=2070"
+  }
+]
